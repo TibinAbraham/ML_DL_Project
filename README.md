@@ -9,6 +9,7 @@ The Iris dataset consists of 150 samples from three species of Iris flowers. Eac
 - Sepal width
 - Petal length
 - Petal width
+<img width="460" alt="Screenshot 2024-06-10 at 1 59 05 PM" src="https://github.com/TibinAbraham/ML_DL_Project/assets/64525719/305bb75a-e51e-4f49-bd10-ac831ba5281c">
 
 ## Project Structure
 
