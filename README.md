@@ -16,6 +16,9 @@ The Iris dataset consists of 150 samples from three species of Iris flowers. Eac
 - `iris_classification.py`: The main script for loading the dataset, training the model, evaluating performance, and generating visualizations.
 - `README.md`: Project documentation.
 
+<img width="688" alt="Screenshot 2024-06-10 at 1 59 37 PM" src="https://github.com/TibinAbraham/ML_DL_Project/assets/64525719/7c2eebfe-9aca-4258-9ddf-4500eaafe446">
+
+
 ## Requirements
 
 - Python 3.x
